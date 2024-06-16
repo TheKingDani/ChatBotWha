@@ -1,0 +1,40 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '5212212559780@s.whatsapp.net',
+    fromMe: false,
+    id: 'DAA69B338A49B4F4386824286E4C07F9',
+    participant: undefined
+  },
+  messageTimestamp: 1718401140,
+  pushName: 'Javier⚕️',
+  broadcast: false,
+  message: Message {
+    conversation: 'Jajajaj',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Jajajaj',
+  from: '5212212559780'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5212212559780@s.whatsapp.net',
+    fromMe: false,
+    id: '08FDA3EF351349BF87EB3C15B39FDC3A',
+    participant: undefined
+  },
+  messageTimestamp: 1718401143,
+  pushName: 'Javier⚕️',
+  broadcast: false,
+  message: Message {
+    conversation: 'Al rato lo checo',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Al rato lo checo',
+  from: '5212212559780'
+}
